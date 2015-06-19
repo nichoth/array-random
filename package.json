@@ -1,0 +1,23 @@
+{
+  "name": "@nichoth/array-random",
+  "description": "Get a random element from an array",
+  "main": "index.js",
+  "version": "0.0.0",
+  "keywords": [
+    "array",
+    "random",
+    "element"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nichoth/array-random.git"
+  },
+  "license": "ISC",
+  "peerDependencies": {},
+  "devDependencies": {
+  }
+}
